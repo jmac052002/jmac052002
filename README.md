@@ -2,7 +2,7 @@
 
 > AWS Cloud & DevOps engineer in training · Career changer · South Fulton, TN · Open to remote & Memphis/Paducah area roles
 
-I spent 15 years running automated control room systems in manufacturing — solo overnight operations, no supervision, meticulous documentation, zero tolerance for downtime. Now I'm applying that same mindset to cloud infrastructure. Ten months into an intensive AWS bootcamp, 15+ public projects, and closing in on my SAA-C03.
+I spent 15 years running automated control room systems in manufacturing solo overnight operations, no supervision, meticulous documentation, zero tolerance for downtime. Now I'm applying that same mindset to cloud infrastructure. Ten months into an intensive AWS bootcamp, 15+ public projects, and closing in on my SAA-C03.
 
 ---
 
