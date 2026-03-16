@@ -32,7 +32,7 @@ GitHub Actions · Git · AWS CLI · Linux (Ubuntu / WSL) · Nginx · Gunicorn
 
 ### [mlops-fraud-detection](https://github.com/jmac052002/mlops-fraud-detection)
 **MLOps Pipeline on AWS In Progress**
-End-to-end MLOps pipeline that automatically trains, evaluates, deploys, and monitors a fraud detection model — fully defined in Infrastructure as Code. Covers the complete ML lifecycle on AWS.
+End-to-end MLOps pipeline that automatically trains, evaluates, deploys, and monitors a fraud detection model fully defined in Infrastructure as Code. Covers the complete ML lifecycle on AWS.
 `SageMaker` `Python` `Jupyter` `IaC`
 
 ---
