@@ -31,14 +31,14 @@ GitHub Actions · Git · AWS CLI · Linux (Ubuntu / WSL) · Nginx · Gunicorn
 ## Featured Projects
 
 ### [mlops-fraud-detection](https://github.com/jmac052002/mlops-fraud-detection)
-**MLOps Pipeline on AWS — In Progress**
+**MLOps Pipeline on AWS In Progress**
 End-to-end MLOps pipeline that automatically trains, evaluates, deploys, and monitors a fraud detection model — fully defined in Infrastructure as Code. Covers the complete ML lifecycle on AWS.
 `SageMaker` `Python` `Jupyter` `IaC`
 
 ---
 
 ### [aws-team-project](https://github.com/jmac052002/aws-team-project)
-**Multi-Region Active-Active Infrastructure — Team Collaboration**
+**Multi-Region Active-Active Infrastructure Team Collaboration**
 Vue.js single-page application with AWS API Gateway integration built with bootcamp classmates. My personal contribution: Aurora Serverless database with Secrets Manager credentials across two AWS regions for automated failover.
 `Aurora Serverless` `Secrets Manager` `Vue.js` `API Gateway` `Multi-region`
 
@@ -66,7 +66,7 @@ Automated object and scene detection pipeline using Amazon Rekognition and Lambd
 ---
 
 ### [tech-job-tracker-k8s](https://github.com/jmac052002/tech-job-tracker-k8s)
-**Job Tracker App — Containerized with Kubernetes**
+**Job Tracker App Containerized with Kubernetes**
 FastAPI-based job application tracking service containerized with Docker and deployed using Kubernetes pod management, service exposure, deployment config.
 `FastAPI` `Docker` `Kubernetes` `Python`
 
@@ -108,8 +108,8 @@ Built and deployed a serverless to-do application using AWS SAM complete serverl
 ---
 
 ### Coming Soon
-- **devbrain** — SQLite-backed personal knowledge CLI built with Python and Typer
-- **MCP Server** — Custom Model Context Protocol server extending AI assistant tooling
+- **devbrain** SQLite-backed personal knowledge CLI built with Python and Typer
+- **MCP Server** Custom Model Context Protocol server extending AI assistant tooling
 
 ---
 
@@ -118,8 +118,8 @@ Built and deployed a serverless to-do application using AWS SAM complete serverl
 | Certification | Status |
 |---|---|
 | AWS Certified Solutions Architect Associate (SAA-C03) | 🔄 In Progress |
-| AWS Cloud & DevOps Engineering — Digital Cloud Mastery Bootcamp | ✅ Active |
-| Google IT Support Fundamentals — Coursera | ✅ Complete |
+| AWS Cloud & DevOps Engineering Digital Cloud Mastery Bootcamp | ✅ Active |
+| Google IT Support Fundamentals Coursera | ✅ Complete |
 
 ---
 
@@ -131,7 +131,7 @@ Former: Control room operator running fully automated feed mill systems
 
 Now:   Building cloud infrastructure with the same discipline and
            attention to uptime that kept production running every night and
-            working hours a week manual labor
+            working 40 hours a week manual labor
 
 Based: South Fulton, TN
 
