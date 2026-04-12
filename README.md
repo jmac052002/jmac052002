@@ -31,7 +31,7 @@ GitHub Actions · Git · AWS CLI · Linux (Ubuntu / WSL) · Nginx · Gunicorn
 ## Featured Projects
 
 ### [mlops-fraud-detection](https://github.com/jmac052002/mlops-fraud-detection)
-**MLOps Pipeline on AWS In Progress**
+**MLOps Pipeline on AWS Complete**
 End-to-end MLOps pipeline that automatically trains, evaluates, deploys, and monitors a fraud detection model fully defined in Infrastructure as Code. Covers the complete ML lifecycle on AWS.
 `SageMaker` `Python` `Jupyter` `IaC`
 
@@ -107,9 +107,30 @@ Built and deployed a serverless to-do application using AWS SAM complete serverl
 
 ---
 
-### Coming Soon
-- **devbrain** SQLite-backed personal knowledge CLI built with Python and Typer
-- **MCP Server** Custom Model Context Protocol server extending AI assistant tooling
+devbrain
+Personal Knowledge Base CLI
+SQLite-backed command-line knowledge base built with Python, Typer, and Rich. Store and recall technical notes, commands, and learnings directly from the terminal built to solve the real problem of forgetting things you've already figured out.
+Python Typer SQLite Rich CLI
+
+---
+
+aws-observability-mcp-tools
+AWS Observability MCP Server
+Custom Model Context Protocol server built with FastMCP that extends AI assistant tooling with real AWS capabilities EC2 instance inspection and STS identity verification via Boto3. Bridges the gap between AI assistants and live AWS infrastructure.
+FastMCP Python Boto3 AWS EC2 STS
+
+---
+
+## 🌐 Open Source Contributions
+
+### [crossplane-contrib/crossview](https://github.com/crossplane-contrib/crossview/pull/219)
+
+**PR #219 — Make releases manual with controlled trigger** ✅ Merged
+CNCF project · Kubernetes dashboard for Crossplane infrastructure
+
+Removed the automatic `push:` trigger from the GitHub Actions release pipeline and replaced it with a fully manual `workflow_dispatch` trigger. Added `environment: production` for required reviewer approval gate, expanded workflow inputs for version/branch/helm selection, and removed a now-redundant version bump guard job.
+
+`GitHub Actions` `CI/CD` `YAML` `DevOps` `CNCF`
 
 ---
 
@@ -117,9 +138,9 @@ Built and deployed a serverless to-do application using AWS SAM complete serverl
 
 | Certification | Status |
 |---|---|
-| AWS Certified Solutions Architect Associate (SAA-C03) | 🔄 In Progress |
-| AWS Cloud & DevOps Engineering Digital Cloud Mastery Bootcamp | ✅ Active |
-| Google IT Support Fundamentals Coursera | ✅ Complete |
+| AWS Certified Solutions Architect Associate (SAA-C03) | Scheduled |
+| AWS Cloud & DevOps Engineering Digital Cloud Mastery Bootcamp | Active |
+| Google IT Support Fundamentals Coursera | Complete |
 
 ---
 
