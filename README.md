@@ -125,7 +125,7 @@ Custom Model Context Protocol server built with FastMCP that extends AI assistan
 
 ### [crossplane-contrib/crossview](https://github.com/crossplane-contrib/crossview/pull/219)
 
-**PR #219 — Make releases manual with controlled trigger** ✅ Merged
+**PR #219 Make releases manual with controlled trigger** Merged
 CNCF project · Kubernetes dashboard for Crossplane infrastructure
 
 Removed the automatic `push:` trigger from the GitHub Actions release pipeline and replaced it with a fully manual `workflow_dispatch` trigger. Added `environment: production` for required reviewer approval gate, expanded workflow inputs for version/branch/helm selection, and removed a now-redundant version bump guard job.
