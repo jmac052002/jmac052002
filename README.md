@@ -110,14 +110,14 @@ Built and deployed a serverless to-do application using AWS SAM complete serverl
 ### [devbrain](https://github.com/jmac052002/devbrain)
 Personal Knowledge Base CLI
 SQLite-backed command-line knowledge base built with Python, Typer, and Rich. Store and recall technical notes, commands, and learnings directly from the terminal built to solve the real problem of forgetting things you've already figured out.
-Python Typer SQLite Rich CLI
+`Python` `Typer` `SQLite` `Rich` `CLI`
 
 ---
 
 ### [aws-observability-mcp-tools](https://github.com/jmac052002/aws-observability-mcp-tools)
 AWS Observability MCP Server
 Custom Model Context Protocol server built with FastMCP that extends AI assistant tooling with real AWS capabilities EC2 instance inspection and STS identity verification via Boto3. Bridges the gap between AI assistants and live AWS infrastructure.
-FastMCP Python Boto3 AWS EC2 STS
+`FastMCP` `Python` `Boto3` `AWS` `EC2` `STS`
 
 ---
 
