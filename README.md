@@ -30,6 +30,13 @@ GitHub Actions · Git · AWS CLI · Linux (Ubuntu / WSL) · Nginx · Gunicorn
 
 ## Featured Projects
 
+### [fargate-forge](https://github.com/jmac052002/fargate-forge)
+Production CI/CD Platform on AWS
+Built a fully automated container deployment platform on AWS. A git push triggers CodePipeline, which runs pytest via CodeBuild, builds and pushes a Docker image to ECR, and executes a zero-downtime blue/green deployment to ECS Fargate via CodeDeploy with automatic rollback on health check failure. WAF protects the ALB with managed rule groups and rate limiting. CloudWatch Container Insights provides full observability. An autonomous intelligence layer uses Amazon Bedrock (Claude) to analyze CloudWatch alarms, reason about root cause, execute remediations, and publish incident reports via SNS. All infrastructure provisioned with Terraform.
+Stack: `Python` `FastAPI` `Docker` `AWS` `ECS` `Fargate` `ECR` `CodePipeline` `CodeBuild` `CodeDeploy` `ALB` `WAF` `CloudWatch` `Lambda` `EventBridge` `SNS` `Bedrock` `Terraform`
+
+---
+
 ### [mlops-fraud-detection](https://github.com/jmac052002/mlops-fraud-detection)
 **MLOps Pipeline on AWS Complete**
 End-to-end MLOps pipeline that automatically trains, evaluates, deploys, and monitors a fraud detection model fully defined in Infrastructure as Code. Covers the complete ML lifecycle on AWS.
