@@ -30,6 +30,12 @@ GitHub Actions · Git · AWS CLI · Linux (Ubuntu / WSL) · Nginx · Gunicorn
 
 ## Featured Projects
 
+### [rag-chatbot](https://github.com/jmac052002/rag-chatbot)
+Agentic RAG Chatbot on AWS End-to-end Retrieval-Augmented Generation pipeline built from scratch. Documents stored in S3 are chunked and vectorized using Amazon Titan Embeddings V2, indexed with FAISS for semantic similarity search, and queries are answered by Claude via Amazon Bedrock using only retrieved context. Lambda handles embedding triggers and query orchestration. All configuration managed via environment variables with no hardcoded credentials.
+`S3` `Bedrock` `Titan Embeddings V2` `FAISS` `Lambda` `Python` `Claude` `WSL2`
+
+---
+
 ### [fargate-forge](https://github.com/jmac052002/fargate-forge)
 Production CI/CD Platform on AWS
 Built a fully automated container deployment platform on AWS. A git push triggers CodePipeline, which runs pytest via CodeBuild, builds and pushes a Docker image to ECR, and executes a zero-downtime blue/green deployment to ECS Fargate via CodeDeploy with automatic rollback on health check failure. WAF protects the ALB with managed rule groups and rate limiting. CloudWatch Container Insights provides full observability. An autonomous intelligence layer uses Amazon Bedrock (Claude) to analyze CloudWatch alarms, reason about root cause, execute remediations, and publish incident reports via SNS. All infrastructure provisioned with Terraform.
