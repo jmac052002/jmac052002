@@ -32,7 +32,7 @@ GitHub Actions · Git · AWS CLI · Linux (Ubuntu / WSL2) · Nginx · Gunicorn �
 
 ### [dispatch](https://github.com/jmac052002/dispatch)
 **AI DevOps Triage Agent**
-An autonomous AI agent that ingests CloudWatch alerts, reasons over them using tool-calling, and takes action Lambda invocations, ECS restarts, log queries — without human intervention. Built on the Anthropic SDK with FastAPI, Lambda, Terraform, and MCP. This is the kind of agent you'd actually run in production.
+An autonomous AI agent that ingests CloudWatch alerts, reasons over them using tool-calling, and takes action Lambda invocations, ECS restarts, log queries without human intervention. Built on the Anthropic SDK with FastAPI, Lambda, Terraform, and MCP. This is the kind of agent you'd actually run in production.
 `Anthropic SDK` `FastAPI` `Lambda` `Terraform` `MCP` `CloudWatch` `Python`
 
 ---
@@ -52,7 +52,7 @@ A clean, minimal implementation of an AI agent loop with real tool use built to 
 ---
 
 ### [mlops-fraud-detection](https://github.com/jmac052002/mlops-fraud-detection)
-**End-to-End MLOps Pipeline on AWS — Complete**
+**End-to-End MLOps Pipeline on AWS Complete**
 Full ML lifecycle on AWS: automatic training, evaluation with a performance gate, model deployment, and production monitoring — entirely defined in Infrastructure as Code.
 `SageMaker` `Python` `Jupyter` `IaC` `Model Monitor`
 
@@ -66,7 +66,7 @@ Fully serverless GraphQL API that compares AI model responses side-by-side using
 ---
 
 ### [aws-team-project](https://github.com/jmac052002/aws-team-project)
-**Multi-Region Active-Active Infrastructure — Team Collaboration**
+**Multi-Region Active-Active Infrastructure Team Collaboration**
 Vue.js application with AWS API Gateway built with bootcamp classmates. My personal contribution: Aurora Serverless with Secrets Manager credentials across two AWS regions with automated failover.
 `Aurora Serverless` `Secrets Manager` `Multi-Region` `API Gateway`
 
