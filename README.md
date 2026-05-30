@@ -2,7 +2,7 @@
 
 > AWS Cloud & DevOps Engineer · Career Changer · South Fulton, TN · Open to Remote & Memphis/Paducah Area Roles
 
-I spent 15 years running automated control room systems in manufacturing — solo overnight operations, no supervision, meticulous documentation, zero tolerance for downtime. Now I'm applying that same mindset to cloud infrastructure and AI agent systems. One year into an intensive AWS/DevOps bootcamp (completed), 26+ public projects, and currently beginning a Bachelor of Science in Artificial Intelligence.
+I spent 15 years running automated control room systems in manufacturing solo overnight operations, no supervision, meticulous documentation, zero tolerance for downtime. Now I'm applying that same mindset to cloud infrastructure and AI agent systems. One year into an intensive AWS/DevOps bootcamp (completed), 26+ public projects, and currently beginning a Bachelor of Science in Artificial Intelligence.
 
 ---
 
@@ -32,7 +32,7 @@ GitHub Actions · Git · AWS CLI · Linux (Ubuntu / WSL2) · Nginx · Gunicorn �
 
 ### [dispatch](https://github.com/jmac052002/dispatch)
 **AI DevOps Triage Agent**
-An autonomous AI agent that ingests CloudWatch alerts, reasons over them using tool-calling, and takes action — Lambda invocations, ECS restarts, log queries — without human intervention. Built on the Anthropic SDK with FastAPI, Lambda, Terraform, and MCP. This is the kind of agent you'd actually run in production.
+An autonomous AI agent that ingests CloudWatch alerts, reasons over them using tool-calling, and takes action Lambda invocations, ECS restarts, log queries — without human intervention. Built on the Anthropic SDK with FastAPI, Lambda, Terraform, and MCP. This is the kind of agent you'd actually run in production.
 `Anthropic SDK` `FastAPI` `Lambda` `Terraform` `MCP` `CloudWatch` `Python`
 
 ---
@@ -46,7 +46,7 @@ A Model Context Protocol server that exposes AWS observability tooling (CloudWat
 
 ### [aws-agent-loop](https://github.com/jmac052002/aws-agent-loop)
 **Minimal Agent Loop Implementation**
-A clean, minimal implementation of an AI agent loop with real tool use — built to understand the mechanics of agentic systems from first principles before scaling to larger projects.
+A clean, minimal implementation of an AI agent loop with real tool use built to understand the mechanics of agentic systems from first principles before scaling to larger projects.
 `Anthropic SDK` `Tool Calling` `Python`
 
 ---
@@ -81,21 +81,21 @@ Retrieval-Augmented Generation pipeline using Amazon Titan Embeddings, FAISS vec
 
 ### [devbrain](https://github.com/jmac052002/devbrain)
 **Personal Knowledge CLI**
-A Typer-based command-line knowledge base backed by SQLite. Built for capturing technical notes, commands, and references fast — from the terminal, where I live.
+A Typer-based command-line knowledge base backed by SQLite. Built for capturing technical notes, commands, and references fast from the terminal, where I live.
 `Python` `Typer` `SQLite`
 
 ---
 
 ### [aws-image-pipeline-s3-sns-sqs-lambda](https://github.com/jmac052002/aws-image-pipeline-s3-sns-sqs-lambda)
 **Event-Driven Image Processing Pipeline**
-Decoupled microservices pipeline using S3 triggers, SNS fan-out, SQS message queuing, and Lambda processing — a real-world async workload pattern.
+Decoupled microservices pipeline using S3 triggers, SNS fan-out, SQS message queuing, and Lambda processing a real-world async workload pattern.
 `S3` `SNS` `SQS` `Lambda` `Python`
 
 ---
 
 ### [tf-mini-3tier](https://github.com/jmac052002/tf-mini-3tier)
 **Terraform 3-Tier Application**
-Production-style 3-tier AWS architecture (web, app, data) provisioned entirely with Terraform — VPC, subnets, ALB, EC2 Auto Scaling groups, security groups. Zero manual console clicks.
+Production-style 3-tier AWS architecture (web, app, data) provisioned entirely with Terraform VPC, subnets, ALB, EC2 Auto Scaling groups, security groups. Zero manual console clicks.
 `Terraform` `EC2` `VPC` `ALB` `Auto Scaling` `HCL`
 
 ---
@@ -109,7 +109,7 @@ Automated Flask web application deployment using Ansible playbooks with Gunicorn
 
 ### [tech-job-tracker-k8s](https://github.com/jmac052002/tech-job-tracker-k8s)
 **Job Tracker App on Kubernetes**
-FastAPI-based job application tracking service containerized with Docker and deployed on Kubernetes — pod management, service exposure, full deployment config.
+FastAPI-based job application tracking service containerized with Docker and deployed on Kubernetes pod management, service exposure, full deployment config.
 `FastAPI` `Docker` `Kubernetes` `Python`
 
 ---
@@ -119,7 +119,7 @@ FastAPI-based job application tracking service containerized with Docker and dep
 | Program | Institution | Status |
 |---|---|---|
 | BS in Artificial Intelligence | University of Advancing Technology (UAT) | 🟢 Beginning July 1, 2026 |
-| AWS Cloud & DevOps Engineering Bootcamp | Digital Cloud Training (Neal Davis) | ✅ Completed — 1 Year |
+| AWS Cloud & DevOps Engineering Bootcamp | Digital Cloud Training (Neal Davis) | ✅ Completed 1 Year |
 | Business Administration | University of Phoenix Online | ✅ ~60 Credit Hours Completed |
 | AWS Certified Solutions Architect Associate (SAA-C03) | Amazon Web Services | 🔄 In Progress |
 | Google IT Support Fundamentals | Coursera | ✅ Complete |
@@ -128,8 +128,8 @@ FastAPI-based job application tracking service containerized with Docker and dep
 
 ## Open Source Contributions
 
-- **[crossplane-contrib/crossview](https://github.com/crossplane-contrib/crossview)** — PR #219 merged: modified the release workflow to replace automatic push triggers with a controlled `workflow_dispatch` input
-- **EnvSync K3s** — PR #16 submitted
+- **[crossplane-contrib/crossview](https://github.com/crossplane-contrib/crossview)** - PR #219 merged: modified the release workflow to replace automatic push triggers with a controlled `workflow_dispatch` input
+- **EnvSync K3s** - PR #16 submitted
 
 ---
 
@@ -137,11 +137,11 @@ FastAPI-based job application tracking service containerized with Docker and dep
 
 ```
 Former: Control room operator running fully automated feed mill systems
-        solo overnight — 15 years, zero supervision, meticulous documentation
+        solo overnight 15 years, zero supervision, meticulous documentation
 
 Now:    Building cloud infrastructure and AI agent systems with the same
         discipline and attention to uptime that kept production running
-        every night — while working 40 hours a week and raising two kids
+        every night while working 40 hours a week and raising two kids
 
 Based:  South Fulton, TN (Tennessee/Kentucky border)
 
