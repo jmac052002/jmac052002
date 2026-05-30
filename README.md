@@ -53,7 +53,7 @@ A clean, minimal implementation of an AI agent loop with real tool use built to 
 
 ### [mlops-fraud-detection](https://github.com/jmac052002/mlops-fraud-detection)
 **End-to-End MLOps Pipeline on AWS Complete**
-Full ML lifecycle on AWS: automatic training, evaluation with a performance gate, model deployment, and production monitoring — entirely defined in Infrastructure as Code.
+Full ML lifecycle on AWS: automatic training, evaluation with a performance gate, model deployment, and production monitoring entirely defined in Infrastructure as Code.
 `SageMaker` `Python` `Jupyter` `IaC` `Model Monitor`
 
 ---
