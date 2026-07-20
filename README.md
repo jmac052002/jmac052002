@@ -2,7 +2,7 @@
 
 > AWS Cloud & DevOps Engineer · Career Changer · South Fulton, TN · Open to Remote & Memphis/Paducah Area Roles
 
-I spent 15 years running automated control room systems in manufacturing solo overnight operations, no supervision, meticulous documentation, zero tolerance for downtime. Now I'm applying that same mindset to cloud infrastructure and AI agent systems. One year into an intensive AWS/DevOps bootcamp (completed), 26+ public projects, and currently beginning a Bachelor of Science in Artificial Intelligence.
+I spent 15 years running automated control room systems in manufacturing solo overnight operations, no supervision, meticulous documentation, zero tolerance for downtime. Now I'm applying that same mindset to cloud infrastructure and AI agent systems. I completed a year-long intensive AWS/DevOps bootcamp, have built 26+ public projects, and am currently pursuing a Bachelor of Science in Artificial Intelligence.
 
 ---
 
@@ -39,8 +39,8 @@ An autonomous AI agent that ingests CloudWatch alerts, reasons over them using t
 
 ### [aws-observability-mcp-tools](https://github.com/jmac052002/aws-observability-mcp-tools)
 **FastMCP Server for AWS Observability**
-A Model Context Protocol server that exposes AWS observability tooling (CloudWatch, X-Ray, CloudTrail) as callable tools for AI agents. Connected to Claude Desktop. Built with FastMCP.
-`FastMCP` `MCP` `CloudWatch` `X-Ray` `Python`
+A read-only Model Context Protocol server that gives AI agents structured access to AWS identity, Lambda inventory, recent CloudWatch logs, and load balancer target health. Built with FastMCP and boto3 for Claude Desktop and other MCP clients.
+`FastMCP` `MCP` `STS` `Lambda` `CloudWatch Logs` `ELBv2` `Python`
 
 ---
 
@@ -118,7 +118,7 @@ FastAPI-based job application tracking service containerized with Docker and dep
 
 | Program | Institution | Status |
 |---|---|---|
-| BS in Artificial Intelligence | University of Advancing Technology (UAT) | 🟢 Beginning July 1, 2026 |
+| BS in Artificial Intelligence | University of Advancing Technology (UAT) | 🟢 Currently Enrolled |
 | AWS Cloud & DevOps Engineering Bootcamp | Digital Cloud Training (Neal Davis) | ✅ Completed 1 Year |
 | Business Administration | University of Phoenix Online | ✅ ~60 Credit Hours Completed |
 | AWS Certified Solutions Architect Associate (SAA-C03) | Amazon Web Services | 🔄 In Progress |
